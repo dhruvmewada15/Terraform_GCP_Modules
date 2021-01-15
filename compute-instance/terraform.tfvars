@@ -1,0 +1,7 @@
+compute_instance_name   = "test-instance"
+compute_instance_type   = "e2-micro"
+network_zone            = "us-central1-a"
+source_image            = "packer-1605866625"
+subnetwork_name         = "test-vpc-subnetwork"
+project_id              = "bubbly-monument-295508"
+project_id_subnet       = "bubbly-monument-295508"
