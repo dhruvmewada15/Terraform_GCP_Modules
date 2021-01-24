@@ -1,7 +1,7 @@
 network_name ="test-vpc"
 auto_create_subnetworks=false
 routing_mode="REGIONAL"
-project_id="bubbly-monument-295508"
+project_id=""
 delete_default_internet_gateway_routes=false
 subnetwork_name="test-vpc-subnetwork"
 subnetwork_ip_cidr_range="10.0.1.0/24"
